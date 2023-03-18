@@ -1,0 +1,27 @@
+img {
+  margin: auto;
+  width: 280px;
+  padding-top: 28px;
+  display: block;
+}
+
+.bio-pic {
+  background: linear-gradient(to bottom left, #6666ff, #5bc0de);
+  width: 395px;
+  height: 400px;
+  border-top-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+}
+/*
+.skills {
+  height: 30px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+
+}
+.Web-Development {
+  width: 
+  
+}*/
